@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       5e1e58ad-5cc7-4e2d-a4ae-9fba9f9fa3d6
+:END:
+#+title:  Adventures
+* Adventures
+** [2023-05-21 Sun] Next Session
+** [2023-04-09 Sun] More clicking in the distance... everything smells like fungus now.
+*** Escape from the forrest
+- Crota, Ulot, and Ingrid are still feeling quite infected.
+- Frogburtmoss croaks out a spell, and all of us are healed +10
+- Frogmoss casts restoration
+- we retreat to a safe distance and long rest. We part ways with the strangers.
+- We get to crossroads. Single horse waggon with two guards carries a bound passenger.
+- The guards claim the the hostege is a foul sorcerer who threatened lots of innocent people.
+- Ulot asks if we want to jump the guards but Ingrid and Crota.
+- Ulot tell 'em about how the effects of the clicker fungus spores can make you see shared delusion of people splitting up in to tiny versions of themselves inhabiting a walking tower fortress.... cause that's what he was convinced happened after Ingrid tried explaining what happened with her magic.
+- Ulot paints a verion of Ingrid in this state when we reach crossroads.
+*** The village of Crossroads.
+- Chruches to other gods now repurposed to Bane.
+*** Patty's Pub
+- Bell heads for Patty's pub. the rest of us seem to follow.
+- Dark. Late.
+- [[id:376338ae-3c45-4c1d-881a-7b9eda79d593][Jasmin Walsh]] is the girl at the bar Ingrid is flirting with.
+- Two large Burly men on either side of a person.
+- they look at us and then look away disinterested.
+- person has a bolwer hat and cain with intricately carved golden rat on it's top.
+- a woman sits at the bar drinking quietly to herself.
+- a [[id:e8dfcef8-8ecd-48cc-aef4-a89928ba517b][community board]] is outside
+- Zachary hands us our drinks. He used to uh... (hemming and hawing).. he owned the tavern next door. Here's your drinks.
+- Job meets [[id:7e76fe09-68f0-4c44-a7e7-c707ad874347][The Sharpener of Weapons]]
+  - He sharpens Ulot's axe (+1)
+- The explosives were for the training keep here in crossroads. they are planning on turning this into a military city. Belle was concerned that we wouldn't be the right crew for this sort of job.
+- Patty tells us to instill hope into the people again.
+
+  show them that the gaurds are nothing more than a threat.
+  she hands us pins that are little maps of fruel circled by four stars (the four capitals)
+  Belle's father was once the royal advisor to the king. he was a powerful mage and the king had him hanged.
+  Patty and Murphy have always been blood to Belle.
+  Vel... another old from
+  Dex is the father of Belle
+  Drusport? small town east of rockhelm? ask Ingrid. Vel is part of Patty and Murphy's cause.
+  Dave the blacksmith can't even sell anything anymore! - patty trying to convince us of the evil of the king's grip of control.
+  Ulot picks up Ingrid's too. She had a cool line. "I'll keep doin' what I've always done. but I'll never do it in your name."
+  We are given tokens though some decline (Job and Ingrid) Ulot takes their tokens instead.
+
+- Ulot dreaming of his three coins/badges
+
+  #+begin_quote
+  This bag is either worth a very little... or worth a very lot.
+  #+end_quote
+
+*** Crota visits a farmhouse
+- Investigates
+*** They guards talke about the big explosion
+It's one of the guards who talk about a big explosion in the reaching woods.
+The one who was an Ingrid fan said it sounded similar to the one from back where they just picked up a guy.
+*** Marvin? no wait...
+He's a bit confused. He's /a/ person to ask but you know, he's around here all day pretty much.
+*** Hair of the Dog
+Ingrid and Ulot start drinking with Bloody Marry's after yesterday...
+
+** [2023-03-25 Sat][? don't remember] Belle tells us about the unending war
+- Belle talks about the war that continues forever. She says it isn't what Bane wanted, and the king is acting as a tyrant and using his guards to inact his tyrany on the people of Fruel.
+- Jobraham knows a few things.
+- South of Yarin? Belle asks if any of us have ever been? Belle tells us everything below that is under the control of the Ivywood kingdom.
+- Ulot gives Kip the Cloak of Forecast.
+- Four people playing music. A fifth figure stands at an eisle maybe painting them.
+  - [[id:06f3a14f-1097-46af-9791-e69472eb9104][Rolvin Silverstring]] :: Silver haired elf guitar player with a short sword.
+  - [[id:75d56688-c50a-4ca2-97b8-77742a8af5b5][Thorga]] :: half-orc with cello and axe
+  - [[id:facf9c6b-0432-434c-989d-5ba677e6099d][Douglas meddowlurk]] :: dancing around the fire is a gnome. He's got a tamborin, drum, and bells. :mute:
+  - [[id:83667d28-9d06-424c-b1ad-6dd78854daf1][Aria Sunflower]] :: Wood elf, playing the flute but her eyes scanning the woods. bow
+  - Frogburt Moss AKA [[id:36b60990-4d8f-416d-a278-71fe6735f4f0][FROGMOSS]] :: afro, button up blue shirt and pants. frog humanoid.
+- Ingrid tells [[id:59f7ad3a-5e92-4d83-8538-37c87c0a5e72][Vex]] a story of mermaids in ancient times.
+- We fight fungus infected humanoids and their clicker sergent.
+  - Ulot, Ingrid, and Crota at least get infected as they fail their con saves.
+** [2023-02-19 Sun 12:23]Wake in the cave
+- Krag leaves early before dawn when only Belle was awake and asked her to write a message for us, "hey guys, the hunt continues."
+- We encounter a fresh set of wagon tracks after we hit the road again.
+- We encounter a troup of guards who kill a half orc man at a farmhouse. A half orc woman appears to be their next victim, but we attack.
+- The Vagabound War Mage ~Forcasts~ your Doom!
+- Belle casts healing magic on herself.
+- We run, meet Kip and Vex, then Belle leads us to a cave full of hyenas with little saddles.
+- 18 silver, candle in the back Ulot picked up
+- 38 copper and a rough pearl (kip)
+- We meet ~Crota~, who was captured in the night by kobolds.
+- golden masked man casting a magic portal
+- Kips's Dream - forrest with mist, crystals singing, well all around her. sounds like the music is coming from the wells.
+- man wearing goggles, a workshop. a body on a table. Doesn't seem to be entirely itself. arm of a bear, etc.
